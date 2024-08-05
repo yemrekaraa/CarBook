@@ -26,6 +26,7 @@ namespace CarBook.Application.Features.Mediator.Handlers.SocialMediaHandlers
                 Icon = request.Icon,
                 Name = request.Name,
                 Url = request.Url
+                
             });
         }
     }
